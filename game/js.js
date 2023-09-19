@@ -1,8 +1,4 @@
-audio = new Audio();
-audio.src = "sinnesloschen-beam-117362";
-audio.volume = 0.2;
-audio.loop = true;
-audio.play();
+
 
 
 Array.prototype.last = function () {
